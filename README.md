@@ -1,3 +1,11 @@
+
+
+<h1>DEMO</h1>
+https://admin.energyrecoverywt.com/
+
+<b>USERNAME:</b> admin
+<b>PASSWORD:</b> admin
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
